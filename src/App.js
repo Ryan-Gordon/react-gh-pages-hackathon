@@ -11,9 +11,9 @@ class App extends Component {
           <h1 className="App-title">Welcome to GMIT Hackathon 2018 powered by startlab</h1>
         </header>
         
-        <p>Education based / Gesture based AI </p>
+        <p> Education based / Gesture based UI </p>
   <p>Preferably projects should be powered by Azure</p>
-
+  <a href="https://azure.microsoft.com/en-us/free/students/"> Click here for a free 100$ voucher for Azure! </a>
   <p>Submit whatever you get done at the end of the day ! :) </p>
       </div>
     );
