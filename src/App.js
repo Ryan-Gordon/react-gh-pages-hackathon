@@ -8,11 +8,13 @@ class App extends Component {
       <div className="App">
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
-          <h1 className="App-title">Welcome to React</h1>
+          <h1 className="App-title">Welcome to GMIT Hackathon 2018 powered by startlab</h1>
         </header>
-        <p className="App-intro">
-          To get started, edit <code>src/App.js</code> and save to reload.
-        </p>
+        
+        <p>Education based / Gesture based AI </p>
+  <p>Preferably projects should be powered by Azure</p>
+
+  <p>Submit whatever you get done at the end of the day ! :) </p>
       </div>
     );
   }
